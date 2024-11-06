@@ -202,12 +202,12 @@ section .container .products .product-item.visible {
   opacity: 1;
 }
 section .container .products .product-item .image-container {
-  width: 40vw;
-  min-width: 340px;
+  width: clamp(340px, 40vw, 750px);
   border-radius: 16px;
 }
 section .container .products .product-item .image-container a img {
   width: 100%;
+  height: auto;
   border-radius: 16px;
   margin-bottom: 0.5rem;
   cursor: pointer;
