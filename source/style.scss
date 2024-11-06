@@ -258,7 +258,7 @@ section {
                 }
 
                 .image-container{
-                    width: clamp(340px, 40vw, 750px);
+                    width: clamp(240px, 40vw, 750px);
                     border-radius: 16px;
 
                     a{
@@ -495,7 +495,7 @@ footer{
 
                 .product-item {
                     .image-container {
-                        width: 80vw;
+                        width: clamp(240px, 80vw, 350px);
 
                         a{
 

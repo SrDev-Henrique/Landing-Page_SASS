@@ -202,7 +202,7 @@ section .container .products .product-item.visible {
   opacity: 1;
 }
 section .container .products .product-item .image-container {
-  width: clamp(340px, 40vw, 750px);
+  width: clamp(240px, 40vw, 750px);
   border-radius: 16px;
 }
 section .container .products .product-item .image-container a img {
@@ -394,7 +394,7 @@ footer .container h2 a .magic:hover {
     margin-bottom: 4rem;
   }
   section .container .products .product-item .image-container {
-    width: 80vw;
+    width: clamp(240px, 80vw, 350px);
   }
   section .container .products .product-item .image-container a img {
     object-fit: cover;
