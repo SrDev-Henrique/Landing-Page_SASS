@@ -1,47 +1,54 @@
-Projeto SASS - Portfólio
-Este é um projeto de portfólio desenvolvido utilizando SASS, Anime.js e JavaScript, apresentando alguns projetos realizados na EBAC.
+# 🎨 Projeto SASS - Portfólio
 
-Funcionalidades
-Animações com Anime.js.
-Estilos otimizados e reutilizáveis com SASS.
-Projetos apresentados em um layout responsivo.
-Animações de letras e um efeito visual com o blob que segue o cursor.
-Tecnologias Utilizadas
-SASS: Para organização e otimização dos estilos CSS.
-Anime.js: Para as animações das letras e outros efeitos dinâmicos.
-JavaScript: Para controle de interatividade, efeitos e carregamento de conteúdo.
-HTML5: Estruturação do site.
-CSS3: Estilização avançada.
+Este é um projeto de portfólio desenvolvido utilizando **SASS**, **Anime.js** e **JavaScript**, que apresenta alguns dos projetos realizados durante o curso na **EBAC**.
 
-Projetos Apresentados:
+## ✨ Funcionalidades
 
-Spotify Clone
-[Ir para o site](https://music-desktop-app.vercel.app/)
-Um aplicativo desktop de músicas inspirado no Spotify.
+- Animações dinâmicas utilizando **Anime.js**.
+- Estilos otimizados e reutilizáveis com **SASS**.
+- Projetos apresentados em um layout **responsivo**.
+- Efeito visual com um **blob** que segue o cursor.
+- Animações de letras para melhorar a interatividade visual.
 
-NFT-SITE
-[Ir para o site](https://nft-site-pink.vercel.app/)
-Um site sobre NFTs com design moderno.
+## 🛠️ Tecnologias Utilizadas
 
-SPAÇOZEN
-[Ir para o site](https://pagina-de-contato-boostrap.vercel.app/)
-Seção de contato de um site de massagem.
+- **SASS**: Organização e otimização dos estilos CSS, tornando o código mais modular e fácil de manter.
+- **Anime.js**: Biblioteca JavaScript para criar animações poderosas e dinâmicas, usada para animar letras e efeitos interativos.
+- **JavaScript**: Utilizado para controlar a interatividade, efeitos e carregamento de conteúdo.
+- **HTML5**: Estruturação semântica do site.
+- **CSS3**: Estilização avançada e responsiva para todas as páginas.
 
-iPhone 14 PRO MAX
-[Ir para o site](https://iphone-14-pro-max-s-dynamic-island.vercel.app/)
-Réplica do notch do iPhone 14 Pro Max.
+## 📂 Projetos Apresentados
 
-Como Rodar o Projeto:
+### 🎵 Spotify Clone
+- [Ir para o site](#)
+- Um aplicativo desktop de músicas inspirado no Spotify.
 
-Clone este repositório:
-git clone https://github.com/SrDev-Henrique/seu-repositorio.git
+### 💎 NFT-SITE
+- [Ir para o site](#)
+- Um site moderno com foco no universo das NFTs.
 
-Navegue até a pasta do projeto:
-cd nome-do-projeto
+### 🧘 SPAÇOZEN
+- [Ir para o site](#)
+- Seção de contato de um site sobre massagem relaxante e terapêutica.
 
-Abra o arquivo index.html no navegador para visualizar a página.
+### 📱 iPhone 14 PRO MAX
+- [Ir para o site](#)
+- Réplica interativa do **notch** do iPhone 14 Pro Max.
 
-Autor:
+## 🚀 Como Rodar o Projeto
 
-SrDevHenrique
+1. **Clone o repositório:**
 
+   ```bash
+   git clone https://github.com/SrDev-Henrique/seu-repositorio.git
+   
+2. **Navegue até a pasta do projeto:**
+
+    ```bash
+    cd nome-do-projeto
+
+2. **Abra o arquivo index.html no navegador para visualizar a página.**
+
+### 👨‍💻 Autor
+## SrDevHenrique
